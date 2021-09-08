@@ -1,0 +1,1 @@
+<button class="p-4 text-neutral-600 font-medium border border-neutral-300 rounded-lg"><slot /></button>
